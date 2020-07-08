@@ -1,0 +1,158 @@
+header{
+    background-color: #f0fff0;
+}
+section{
+    margin-bottom: 100px;
+}
+.navbar-light
+ .navbar-nav 
+ .nav-link{
+    font-size:14px;
+    font-weight:500;
+    color:#000;
+}
+.navbar-expand-lg .navbar-nav .nav-link {
+    padding-right: 1rem;
+    padding-left: 1rem;
+}
+.navbar-light .navbar-nav .nav-link.active{
+    background-color: #21b573;
+    color:white;
+    border-radius: 20px;
+ }
+ .navbar-light .navbar-nav .nav-link:hover{
+    background-color: #21b573;
+    color:white;
+    border-radius: 20px;
+    transition: 0.2s ease;
+ }
+ .navbar img{
+     width:120px;
+ }
+ .top-area{
+    background-color: #f0fff0;
+    padding-top: 70px;
+    padding-bottom: 70px;
+ }
+ .top-area h6{
+     color:red;
+ }
+ .top-area h1,h2{
+     font-weight: bold;
+ }
+ .top-area span{
+     color:#21b573;
+ }
+ .btn-design{
+     color:#21b573;
+     border:1px solid #21b573;
+     background-color: #f0fff0;
+     padding: 7px 30px;
+     border-radius:40px;
+ }
+ .btn-design:hover{
+    color:white;
+    background-color: #21b573;
+    transition: 0.3s;
+ }
+ .top-area img{
+    width:90%;
+}
+.help-area span{
+    color:#21b573;
+}
+.card{
+    box-shadow: 5px 5px 20px gray;
+    border-radius:10px;
+}
+.card i{
+    font-size:45px;
+    color:#21b573;
+}
+.green-color{
+    color:#21b573;
+}
+.courses-area a{
+    text-decoration: none;
+}
+.seeAll{
+    height:30px;
+    color:#21b573;
+    padding: 0px 10px;
+    border:1px solid #21b573;
+}
+.seeAll:hover{
+    color:#fff;
+    background-color: #21b573;
+    transition: 0.3s;
+}
+.card img{
+    width:100%;
+    height:250px;
+}
+.courses-area i{
+    font-size:20px;
+}
+.info{
+    width:100%;
+    height:200px;
+    background-color: honeydew;
+}
+.info img{
+    width:20%;
+}
+.info h2{
+    color:#43b682;
+}
+.info:hover{
+    background-color: #fff;
+    box-shadow: 5px 5px 10px gray;
+    border-radius:10px;
+    transition: 0.1s;
+}
+.teachers-area a{
+    text-decoration: none;
+}
+.teachers-area img{
+    width:100%;
+    height:350px;
+}
+.teachers-info{
+    width:200px;
+    height:60px;
+    background-color: #21b573;
+    color:#fff;
+    position: relative;
+    top:-30px;
+    left:65px;
+}
+.carousel-item img{
+    width:200px;
+    height:200px;
+    border-radius:50%;
+}
+.blog-area a{
+    text-decoration: none;
+}
+.blog-area .card{
+    box-shadow: none;
+}
+footer{
+    width:100%;
+    background-color: #000;
+}
+.f-course a{
+    text-decoration: none;
+    color:#fff;
+}
+.f-menu a{
+    text-decoration: none;
+    color:#fff;
+}
+.f-course ul li a:hover{
+    color:rgb(38, 241, 116);
+}
+footer h6{
+    color: grey;
+    margin-top:5px;
+}

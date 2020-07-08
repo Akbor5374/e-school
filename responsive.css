@@ -1,0 +1,38 @@
+@media only screen and (max-width: 1200px) {
+
+}
+@media only screen and (max-width: 992px){
+    .navbar-light
+    .navbar-nav 
+    .nav-link{
+       text-align: center;
+   }
+   .info h2{
+    font-size:25px;
+  }
+  .teachers-info{
+    width:150px;
+    height:50px;
+    top:-30px;
+    left:30px;
+  }
+  .teachers-info h4{
+ font-size:16px;
+  }
+}
+@media only screen and (max-width: 855px){
+
+}
+@media only screen and (max-width: 768px){
+    .teachers-info{
+        left:200px;
+      }
+      .testimonial-area h2{
+          text-align:center;
+      }
+}
+@media only screen and (max-width: 530px){
+    .teachers-info{
+        left:120px;
+      }
+}
